@@ -442,7 +442,6 @@
     </path>
 
     <path name="speaker">
-        <ctl name="TFA Profile" value="speaker" />
     </path>
 
     <path name="speaker-protected">
@@ -450,7 +449,6 @@
     </path>
 
     <path name="voice-speaker">
-        <ctl name="TFA Profile" value="speech" />
     </path>
 
     <path name="speaker-mono">
